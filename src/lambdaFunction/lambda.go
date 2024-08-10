@@ -82,4 +82,5 @@ func UsingLambda() {
 	//}(3, 4) // 传递参数
 
 	//fmt.Println("Result:", result) // 输出: Result: 7
+	fmt.Println("using lambda ending")
 }
