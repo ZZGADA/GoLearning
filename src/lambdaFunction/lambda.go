@@ -68,6 +68,12 @@ func usingCodeBlock(separateVal string) {
 	processSeparateBlock(separateVal, SeparateCodeBlock)
 }
 
+// UsingCodeBlock
+func UsingCodeBlock(separateVal string) {
+	// 使用回调函数
+	processSeparateBlock(separateVal, SeparateCodeBlock)
+}
+
 // UsingLambda /*Using lambda 使用匿名函数*/
 func UsingLambda() {
 	fmt.Println("using lambda ---> ")
