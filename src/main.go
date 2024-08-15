@@ -11,4 +11,9 @@ func helloWorldInMain() {
 
 func main() {
 	helloWorldInMain()
+
+	fmt.Println("测试 rebase")
+	fmt.Println("测试 rebase")
+	fmt.Println("测试 rebase")
+
 }
